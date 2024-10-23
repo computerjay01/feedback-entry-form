@@ -67,3 +67,4 @@ watchdog==2.1.9
 wcwidth==0.2.5
 zipp==3.8.1
 pip==24.2
+lxml==4.6.5 

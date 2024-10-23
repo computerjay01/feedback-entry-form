@@ -1,0 +1,4 @@
+pillow==9.0.1
+pandas
+matplotlib
+textblob
